@@ -4,3 +4,6 @@ Source Treeの練習(2020/12/30)
 
 Source Treeの練習(2020/12/31)
 - cloneしたリポジトリを変更してpushする
+
+Source Treeの練習(2020/12/31)
+- pull リモートリポジトリの内容を取得する
